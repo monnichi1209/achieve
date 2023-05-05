@@ -1,4 +1,6 @@
 #Gitチュートリアル second
 -tomato
+-develop
+
 
 
