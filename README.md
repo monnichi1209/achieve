@@ -1,3 +1,3 @@
-#Gitチュートリアル
--develop
+#Gitチュートリアル second
+
 
