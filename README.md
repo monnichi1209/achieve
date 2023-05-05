@@ -1,5 +1,2 @@
 #Gitチュートリアル second
--tomato
-
-
 
